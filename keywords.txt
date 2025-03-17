@@ -1,0 +1,7 @@
+Python
+Machine Learning
+Data Structures
+SQL
+Flask
+TensorFlow
+NLP
